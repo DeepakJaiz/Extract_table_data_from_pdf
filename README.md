@@ -11,7 +11,7 @@ https://towardsdatascience.com/scraping-table-data-from-pdf-files-using-a-single
 `Install Jupyter Notebook to run the code`<br/>
 
 ### Modules required
-pip install tabula-py
+`pip install tabula-py`
 
 ### How to run
 Open the file in jupyter notebook and then execute the cell from top to bottom.
